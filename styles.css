@@ -1,0 +1,17 @@
+body {
+  background-color: #c79d9d;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+  text-align: center;
+}
+
+.list {
+  text-align: center;
+}
+
+.photo {
+  height: 500px;
+  border-radius: 25px;
+}
